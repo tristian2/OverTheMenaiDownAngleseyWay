@@ -12,5 +12,5 @@ Issues
 * tempo?!?
 
 <div style="width:50px; height:50px">
-![1](images/1.png)
+![1]("/images/1.png")
 </div>
