@@ -13,3 +13,7 @@ Using Score editor in Logic PRO
 
 
 ![alt text](https://github.com/tristian2/OverTheMenaiDownAngleseyWay/blob/main/images/1.png?raw=true)
+![alt text](https://github.com/tristian2/OverTheMenaiDownAngleseyWay/blob/main/images/2.png?raw=true)
+![alt text](https://github.com/tristian2/OverTheMenaiDownAngleseyWay/blob/main/images/3.png?raw=true)
+![alt text](https://github.com/tristian2/OverTheMenaiDownAngleseyWay/blob/main/images/4.png?raw=true)
+![alt text](https://github.com/tristian2/OverTheMenaiDownAngleseyWay/blob/main/images/5.png?raw=true)
