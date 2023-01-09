@@ -16,4 +16,4 @@ Issues
 </div>
 
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]](https://github.com/tristian2/OverTheMenaiDownAngleseyWay/blob/main/)/images/1.png?raw=true)
+![alt text](https://github.com/tristian2/OverTheMenaiDownAngleseyWay/blob/main/)/images/1.png?raw=true)
